@@ -1,8 +1,6 @@
 # Rgallery
 <html>
 <head>
-  <title>RJM's Gallery</title>
-
 </head>
 <body>
 <h1>RJM's Gallery</h1>
