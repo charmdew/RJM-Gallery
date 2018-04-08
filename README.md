@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>RJM's Gallery</h1>
-  <br></br>
+  <br>
 <ui>
   <h2><li>수업소개</li></h2>
 
