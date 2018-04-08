@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <h1>RJM's Gallery</h1>
+  <h1>INTRODUCTION</h1>
   <br>
 <ui>
   <h2><li>수업소개</li></h2>
