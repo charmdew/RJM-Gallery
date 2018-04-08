@@ -14,8 +14,7 @@
 마우스, 키보드를 이용해 상호작용 할 수 있는 방법 등 
 여러가지 기법들을 배웁니다.</p>
 
-<br></br>
   <h2><li><a href= "" target="_blank" title="본인소개">본인소개</a></li></h2>
-<br></br>
+
   <h2><li><a href= "링크" target="_blank" title="작품소개">작품소개</a></li></h2>
 <ui>
