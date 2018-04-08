@@ -16,5 +16,5 @@
 
   <h2><li><a href= "https://jmyoo55.github.io/me/" target="_blank" title="본인소개">본인소개</a></li></h2>
 
-  <h2><li><a href= "링크" target="_blank" title="작품소개">작품소개</a></li></h2>
+  <h2><li><a href= "https://jmyoo55.github.io/turtle/" target="_blank" title="작품소개">작품소개</a></li></h2>
 <ui>
